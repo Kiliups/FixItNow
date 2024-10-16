@@ -1,14 +1,14 @@
 <script>
-	//imports
+    //imports
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Hello world" />
+    <title>Home</title>
+    <meta name="description" content="Hello world"/>
 </svelte:head>
 
-<section>
-	<h1>
-		hello world
-	</h1>
+<section class="flex flex-col items-center w-full">
+    <h1 class="text-3xl font-bold underline">
+        hello world
+    </h1>
 </section>
